@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9fda948d-1132-4666-912d-433397f6e3b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.expo-shared/assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/.expo-shared/assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/assets/fonts/SpaceMono-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/assets/images/adaptive-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/assets/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/assets/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/assets/images/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/components/EditScreenInfo.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/components/StyledText.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/components/Themed.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/components/__tests__/StyledText-test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/constants/Colors.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/constants/Layout.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/hooks/useCachedResources.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/hooks/useColorScheme.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/navigation/BottomTabNavigator.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/navigation/LinkingConfiguration.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/navigation/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/screens/NotFoundScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/screens/TabOneScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/screens/TabTwoScreen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-reanimated/types.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-screens/.expo-shared/assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-screens/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-screens/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-screens/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-screens/assets/adaptive-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-screens/assets/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-screens/assets/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-screens/assets/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-screens/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-screens/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/@react-native-screens/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/adaptive-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1u79RU445M9jNTtxsZ7JjMeEG7O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fda948d-1132-4666-912d-433397f6e3b2" name="Default Changelist" comment="" />
+      <created>1624005751157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624005751157</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1350" height="638" key="AVDManager" timestamp="1624278784422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="AVDManager/0.0.1536.824@0.0.1536.824" timestamp="1624278784422" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1624194682144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1624194682144" />
+  </component>
+</project>
